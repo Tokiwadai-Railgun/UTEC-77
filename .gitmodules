@@ -1,0 +1,3 @@
+[submodule "AP/portfolio/PortfolioAPStellar"]
+	path = AP/portfolio/PortfolioAPStellar
+	url = git@github.com:Tokiwadai-Railgun/Tokiwadai-Railgun.github.io.git
